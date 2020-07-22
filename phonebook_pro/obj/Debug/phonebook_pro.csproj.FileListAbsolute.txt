@@ -1,0 +1,12 @@
+C:\Users\Zander\source\repos\phonebook_pro_ns\phonebook_pro\bin\Debug\phonebook_pro.exe.config
+C:\Users\Zander\source\repos\phonebook_pro_ns\phonebook_pro\bin\Debug\phonebook_pro.exe
+C:\Users\Zander\source\repos\phonebook_pro_ns\phonebook_pro\bin\Debug\phonebook_pro.pdb
+C:\Users\Zander\source\repos\phonebook_pro_ns\phonebook_pro\obj\Debug\phonebook_pro.About_us.resources
+C:\Users\Zander\source\repos\phonebook_pro_ns\phonebook_pro\obj\Debug\phonebook_pro.Form1.resources
+C:\Users\Zander\source\repos\phonebook_pro_ns\phonebook_pro\obj\Debug\phonebook_pro.Properties.Resources.resources
+C:\Users\Zander\source\repos\phonebook_pro_ns\phonebook_pro\obj\Debug\phonebook_pro.Register_data.resources
+C:\Users\Zander\source\repos\phonebook_pro_ns\phonebook_pro\obj\Debug\phonebook_pro.Search_data.resources
+C:\Users\Zander\source\repos\phonebook_pro_ns\phonebook_pro\obj\Debug\phonebook_pro.csproj.GenerateResource.cache
+C:\Users\Zander\source\repos\phonebook_pro_ns\phonebook_pro\obj\Debug\phonebook_pro.csproj.CoreCompileInputs.cache
+C:\Users\Zander\source\repos\phonebook_pro_ns\phonebook_pro\obj\Debug\phonebook_pro.exe
+C:\Users\Zander\source\repos\phonebook_pro_ns\phonebook_pro\obj\Debug\phonebook_pro.pdb
